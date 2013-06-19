@@ -1,0 +1,34 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MonoSpotify/ApiDefinition.cs">
+    <Files>
+      <File FileName="MonoSpotify/StructsAndEnums.cs" Line="1" Column="1" />
+      <File FileName="MonoSpotify/ApiDefinition.cs" Line="22" Column="2" />
+      <File FileName="MonoSpotify/libCocoaLibSpotify.linkwith.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="MonoSpotify" expanded="True">
+            <Node name="ApiDefinition.cs" selected="True" />
+            <Node name="libCocoaLibSpotify.a" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True">
+          <Node name="MonoSpotify" expanded="True">
+            <Node name="References" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

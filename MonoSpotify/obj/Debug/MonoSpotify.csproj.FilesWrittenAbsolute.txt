@@ -1,0 +1,8 @@
+/Users/Dermot/Dropbox/Dev/MonoSpotify/MonoSpotify/bin/Debug/MonoSpotify.dll.mdb
+/Users/Dermot/Dropbox/Dev/MonoSpotify/MonoSpotify/bin/Debug/MonoSpotify.dll
+/Users/Dermot/Dropbox/Dev/MonoSpotify/MonoSpotify/obj/Debug/MonoSpotify.dll
+/Users/Dermot/Dropbox/Dev/MonoSpotify/MonoSpotify/obj/Debug/MonoSpotify.dll.mdb
+/Users/dermotos/Dropbox/Dev/MonoSpotify/MonoSpotify/bin/Debug/MonoSpotify.dll.mdb
+/Users/dermotos/Dropbox/Dev/MonoSpotify/MonoSpotify/bin/Debug/MonoSpotify.dll
+/Users/dermotos/Dropbox/Dev/MonoSpotify/MonoSpotify/obj/Debug/MonoSpotify.dll
+/Users/dermotos/Dropbox/Dev/MonoSpotify/MonoSpotify/obj/Debug/MonoSpotify.dll.mdb

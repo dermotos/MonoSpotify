@@ -1,0 +1,4 @@
+/Users/dermotos/Projects/Libraries/MonoSpotify/MonoSpotify/bin/Release/MonoSpotify.dll
+/Users/dermotos/Projects/Libraries/MonoSpotify/MonoSpotify/obj/Release/MonoSpotify.dll
+/Users/dermotos/Dropbox/Dev/MonoSpotify/MonoSpotify/bin/Release/MonoSpotify.dll
+/Users/dermotos/Dropbox/Dev/MonoSpotify/MonoSpotify/obj/Release/MonoSpotify.dll
